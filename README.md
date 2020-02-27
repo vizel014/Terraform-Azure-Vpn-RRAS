@@ -1,5 +1,5 @@
 # Terraform-Azure-Vpn-RRAS
-Using-Terraform-To-create-Azure-site-to-site-vpn-vpn-with-rras
+Terraform-create-Azure-site-to-site-vpn-rras
 
 
 I worked with this guide -https://blogs.technet.microsoft.com/jletsch/2016/03/15/lets-configure-azure-site-to-site-vpn-with-rras-in-azure-resource-manager/
